@@ -2,6 +2,7 @@
    CS STUDENT PORTFOLIO — main.js
    ══════════════════════════════════════════════ */
 
+
 // ── NAVBAR SCROLL ──
 const nav = document.getElementById('mainNav');
 window.addEventListener('scroll', () => {
